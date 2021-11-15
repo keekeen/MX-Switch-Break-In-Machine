@@ -8,7 +8,7 @@ A simple machine designed to actuate/ break-in MX style switches consistently an
 
 ## Notes ⚠️
 - Provided files are to be used at your own risk
-- The dimensional tolerances of printed parts may vary between 3D printers.
+- The dimensional tolerances may vary between 3D printers.
 - Cooling of the dc motor is necessary for a continuous operation (eg. cooling with a mini table fan). An overheated motor may cause a shortage in the windings and cause motor failure. A general rule of thumb, if you feel uncomfortable placing your finger on top of the motor for more than 10 seconds then chances are that the motor is overheating.
 
 ## Bill of materials (BOM) 📜
