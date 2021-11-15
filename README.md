@@ -1,6 +1,10 @@
 # MX Switch Break-In Machine
 A simple machine designed to actuate/ break-in MX style switches consistently and repetitively for a smoother push feel. Watch the assembly process and operation of the machine [here]() also.
 
+![alt text][snapshot]
+
+[snapshot]: /images/snap1.PNG "Machine Snapshot"
+
 ## Specifications
 - Max number of switches: 36
 - Compatibility: 
