@@ -3,7 +3,7 @@ A simple machine designed to actuate/ break-in MX style switches consistently an
 
 ![alt text][snapshot]
 
-[snapshot]: /images/snap1.PNG "Machine Snapshot"
+[snapshot]: /images/snap0.PNG "Machine Snapshot"
 
 ## Specifications
 - Max number of switches: 36
