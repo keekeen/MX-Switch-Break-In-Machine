@@ -21,9 +21,9 @@ Parts required to print:
 | 3x3 Switch Plate               | 4    |
 | Flat Profile Keycap            | 36   |
 | Machine Housing                | 1    |
-| Machine Housing 1              | 1    |
+| Machine Housing 1              | 2    |
 | Scotch Yoke 1                  | 1    |
-| Scotch Yoke 2                  | 1    |
+| Scotch Yoke 2                  | 2    |
 
 Parts required to purchase:
 | Part                                        | Qty | References |
