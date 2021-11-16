@@ -33,7 +33,7 @@ Parts required to purchase:
 | Part                                        | Qty | References |
 | ------------------------------------------- | --- | ---------- |
 | TT 1:48 Gearbox DC Motor (P/N: TGP01S-A130) | 1   | [link 1](http://www.ttmotor.com/productshow.php?sid=212&id=119) <br> [link 2](https://www.adafruit.com/product/3777) |
-| HK 0306 Needle Roller Bearing               | 2   | [link 1](https://www.skf.com/my/products/rolling-bearings/roller-bearings/needle-roller-bearings/drawn-cup-needle-roller-bearings/productid-HK%200306%20TN) |
+| HK 0306 Needle Roller Bearing               | 2   | [link 1](https://www.skf.com/us/products/rolling-bearings/roller-bearings/needle-roller-bearings/drawn-cup-needle-roller-bearings/productid-HK%200306%20TN) |
 | M3 x 12mm Socket Head Cap Screw             | 2   | - |
 | M3 x 8mm Pan Head Philips Screw             | 5   | - |
 | M3 x 25mm Pan Head Philips Screw            | 2   | - |
