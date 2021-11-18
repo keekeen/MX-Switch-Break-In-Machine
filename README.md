@@ -27,6 +27,7 @@ Parts required to print:
 | Flat Profile Keycap            | 36   |
 | Machine Housing                | 1    |
 | Machine Housing 1              | 2    |
+| Motor-Adjuster                 | 1    |
 | Scotch Yoke 1                  | 1    |
 | Scotch Yoke 2                  | 2    |
 
