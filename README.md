@@ -11,6 +11,7 @@ A simple machine designed to actuate/ break-in MX style switches consistently an
   -  MX style switches with a 4mm of total travel distance only
 
 ## Notes ⚠️
+- This repo is still under development
 - The dimensional tolerances may vary between 3D printers. Thus, provided files are to be used at your own risk.
 - Cooling of the dc motor is necessary for a continuous operation (eg. cooling with a mini table fan). An overheated motor may cause a shortage in the windings and cause motor failure. A general rule of thumb, if you feel uncomfortable placing your finger on top of the motor for more than 10 seconds then chances are that the motor is overheating.
 
