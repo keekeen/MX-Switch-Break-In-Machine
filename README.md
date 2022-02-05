@@ -26,7 +26,7 @@ Parts required to print:
 | Switch Holder                                        | 4          |
 | Flat Profile Keycap *or 10xFlat Profile Keycap*      | 36 *or 4*  |
 | Machine Housing                                      | 1          |
-| Machine Housing 1 *or 2xMachine Housing 1*           | 2 *or 1*   |
+| Machine Housing 1 *or 4xMachine Housing 1*           | 2 *or 1*   |
 | Motor-Adjuster                                       | 1          |
 | Scotch Yoke                                          | 1          |
 
