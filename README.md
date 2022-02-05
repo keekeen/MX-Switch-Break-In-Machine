@@ -12,8 +12,9 @@ A simple machine designed to actuate/ break-in MX style switches consistently an
 
 ## Notes ⚠️
 - This repo is still under maintenance 
-- The dimensional tolerances may vary between 3D printers. Thus, provided files are to be used at your own risk. 
-- The compplete units showed in pictures and videos shared in this repo were printed with [JLCPCB 3D printing service](https://jlcpcb.com/)
+- The provided files are to be used at your own risk.
+- The dimensional tolerances may vary between 3D printers. 
+- The complete units showed in pictures and videos shared in this repo were printed with [JLCPCB 3D printing service](https://jlcpcb.com/)
 
 ## Bill of materials (BOM) 📜
 The following is the number of quantities required for each part to assemble a complete unit. The part files required to print are under the `Production` folder.
