@@ -1,9 +1,9 @@
 # MX Switch Break-In Machine
-A simple machine designed to actuate/ break-in MX style switches consistently and repetitively for a smoother push feel. Watch the assembly process and operation of the machine [here]() also.
+A simple machine designed to actuate/ break-in MX style switches consistently and repetitively for a smoother push feel. Watch the <s>assembly process (will upload soon)</s> and [operation](https://youtu.be/iYIlCdo38ZM) of the machine here also.
 
 ![alt text][snapshot]
 
-[snapshot]: /images/snap0.PNG "Machine Snapshot"
+[snapshot]: /Images/DSC05789.jpg "Machine Snapshot"
 
 ## Specifications
 - Max number of switches: 36
@@ -16,7 +16,7 @@ A simple machine designed to actuate/ break-in MX style switches consistently an
 - The compplete units showed in pictures and videos shared in this repo were printed with [JLCPCB 3D printing service](https://jlcpcb.com/)
 
 ## Bill of materials (BOM) 📜
-The following is the number of quantities each part needs to assemble a complete unit.
+The following is the number of quantities required for each part to assemble a complete unit. The part files required to print are under the `Production` folder.
 
 Parts required to print:
 | Part                                                 | Qty        |
