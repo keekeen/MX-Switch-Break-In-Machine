@@ -1,5 +1,5 @@
 # MX Switch Break-In Machine
-A simple machine designed to actuate/ break-in MX style switches consistently and repetitively for a smoother push feel. Watch the <s>assembly process (will upload soon)</s> and [operation](https://youtu.be/iYIlCdo38ZM) of the machine here also.
+A simple machine designed to actuate/ break-in MX style switches consistently and repetitively for a smoother push feel. Watch the <s>assembly process (will upload soon)</s> and [operation](https://youtu.be/iYIlCdo38ZM) of the machine here.
 
 ![alt text][snapshot]
 
@@ -11,9 +11,9 @@ A simple machine designed to actuate/ break-in MX style switches consistently an
   -  MX style switches with a 4mm of total travel distance only
 
 ## Notes ⚠️
-- This repo is still under maintenance 
+- This repo is still under maintenance. More pictures and videos will be shared soon.
 - The provided files are to be used at your own risk.
-- The dimensional tolerances may vary between 3D printers. 
+- The dimensional tolerances may vary between 3D printers. See acceptable tolerances under `Production/Technical-Drawings`
 - The complete units showed in pictures and videos shared in this repo were printed with [JLCPCB 3D printing service](https://jlcpcb.com/)
 
 ## Bill of materials (BOM) 📜
