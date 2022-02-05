@@ -34,8 +34,8 @@ Parts required to print:
 Parts required to purchase:
 | Part                                 | Qty | Comment | References |
 | ------------------------------------ | --- | ------- | ---------- |
-| TT 1:90 Gearbox DC Motor             | 1   | Recommended, measured about 120 actutaions/min | [link 1](https://shopee.sg/Large-Price-Metal-Gear-Robot-Smart-Car-Reduce-Speed-Motor-Tt-Motor-i.191993938.3917622642) |
-| *or TT 1:48 Gearbox DC Motor*        | 1   | Motor runs hot, measured about 230 actuations/min | [link 2](https://www.adafruit.com/product/3777) |
+| TT 1:90 Gearbox DC Motor             | 1   | Measured about 155 actutaions/min, 5.4 hours for 50k actuation (measurement based on my purchased motor) | [link 1](https://shopee.sg/Large-Price-Metal-Gear-Robot-Smart-Car-Reduce-Speed-Motor-Tt-Motor-i.191993938.3917622642) |
+| *or TT 1:48 Gearbox DC Motor*        | 1   | Motor runs hot over long run, measured about 400 actutaions/min, 2.1 hours for 50k actuation (measurement based on my purchased motor) | [link 2](https://www.adafruit.com/product/3777) |
 | HK 0306 Needle Roller Bearing        | 2   | - | [link 1](https://www.skf.com/us/products/rolling-bearings/roller-bearings/needle-roller-bearings/drawn-cup-needle-roller-bearings/productid-HK%200306%20TN) |
 | M3 x 8mm Screw                       | 7   | - | - |
 | M3 x 25mm Screw                      | 2   | - | - |
