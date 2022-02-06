@@ -13,8 +13,8 @@ A simple machine designed to actuate/ break-in MX style switches consistently an
 ## Notes ⚠️
 - This repo is still under maintenance. More pictures and videos will be shared soon.
 - The provided files are to be used at your own risk.
-- The dimensional tolerances may vary between 3D printers. See acceptable tolerances under [`Production/Technical-Drawings`](/Production/Technical-Drawings)
-- The complete units showed in pictures and videos shared in this repo were printed with [JLCPCB 3D printing service and with material of 8000 Resin](https://cart.jlcpcb.com/quote)
+- The dimensional tolerances may vary between 3D printers. See acceptable tolerances under [`Production/Technical-Drawings`](/Production/Technical-Drawings).
+- The complete units showed in pictures and videos shared in this repo were printed with [JLCPCB 3D printing service](https://cart.jlcpcb.com/quote), with material of 8000 Resin, and remarked to print at an 30/45 angle for better Z-axis accuracy.
 
 ## Bill of materials (BOM) 📜
 The following is the number of quantities required for each part to assemble a complete unit. The part files required to print are under the [`Production`](/Production) folder.
