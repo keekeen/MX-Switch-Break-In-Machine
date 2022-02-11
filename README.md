@@ -8,7 +8,7 @@ A simple machine designed to actuate/ break-in MX style switches consistently an
 ## Specifications
 - Max number of switches: 36
 - Compatibility: 
-  -  MX style switches with total travel distance of 3-4mm only
+  -  MX style switches with total travel distance of 4mm only
 
 ## Notes ⚠️
 - More pictures and videos will be shared soon.
@@ -30,8 +30,7 @@ Parts required to print:
 | Machine Housing                                      | 1          | -       |
 | Machine Housing 1 *or 4xMachine Housing 1*           | 2 *or 1*   | -       |
 | Motor-Adjuster                                       | 1          | -       |
-| Scotch Yoke                                          | 1          | For switches with travel distance of 4mm |
-| Scotch Yoke 3mm                                      | 1          | For switches with travel distance of 3mm onwards |
+| Scotch Yoke                                          | 1          | -       |
 
 Parts required to purchase:
 | Part                                 | Qty | Comment | References |
