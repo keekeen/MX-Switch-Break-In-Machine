@@ -47,6 +47,9 @@ Parts required to purchase:
 - More pictures and videos will be shared soon.
 - Compatibility for switches with shorter travel distance will be addressed in the next revision.
 
+## Changelog 📒
+- `05/02/2022:` Initial part files commit 
+
 ## Reach me at 📩
 - Discord: https://discordapp.com/users/keekeen#4907
   - Feel free to send me your enquires if you have doubt reproducing a unit for yourself.
