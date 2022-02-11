@@ -11,7 +11,6 @@ A simple machine designed to actuate/ break-in MX style switches consistently an
   -  MX style switches with total travel distance of 4mm only
 
 ## Notes ⚠️
-- More pictures and videos will be shared soon.
 - The provided files are to be used at your own risk.
 - The dimensional tolerances may vary between 3D printers. See acceptable tolerances under [`Production/Technical-Drawings`](/Production/Technical-Drawings).
 - The complete units showed in pictures and videos shared in this repo were printed with [JLCPCB 3D printing service](https://cart.jlcpcb.com/quote), with material of 8000 Resin, and remarked to print at an 30/45 angle for better Z-axis accuracy.
@@ -43,6 +42,10 @@ Parts required to purchase:
 | M3 x 25mm Screw                      | 2   | - | - |
 | Female USB C to 2-pin 22 AWG Wires   | 1   | - | [link 1](https://www.aliexpress.com/item/1005001388133794.html?spm=a2g0o.productlist.0.0.5eb0510fZ1x7CB&algo_pvid=72711e6a-5844-4e73-a4a4-c90b141b40e0&algo_exp_id=72711e6a-5844-4e73-a4a4-c90b141b40e0-16&pdp_ext_f=%7B%22sku_id%22%3A%2212000015898874380%22%7D) <br> [link 2](https://www.aliexpress.com/item/1005002271810476.html?spm=a2g0o.productlist.0.0.2819510fomHmwf&algo_pvid=a239c4db-a4cf-4337-b6a1-f4db0c4cff98&algo_exp_id=a239c4db-a4cf-4337-b6a1-f4db0c4cff98-2&pdp_ext_f=%7B%22sku_id%22%3A%2212000019849627354%22%7D) |
 | 8mm Diameter Bumpons                 | 4   | Optional | [link 1](https://shopee.sg/MAGIC-100PCS-Sheet-Soft-Buffer-Sticker-Furniture-Accessories-Gel-Shock-Absorber-Rubber-Silicone-Pads-Cabinets-Door-Stop-Anti-collision-Toilets-Bumpers-Non-Slip-Self-Adhesive-Multicolor-i.299069493.11802920607) |
+
+## To-Do 📝
+- More pictures and videos will be shared soon.
+- Compatibility for switches with shorter travel distance will be addressed in the next revision.
 
 ## Reach me at 📩
 - Discord: https://discordapp.com/users/keekeen#4907
