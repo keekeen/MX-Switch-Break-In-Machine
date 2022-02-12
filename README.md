@@ -1,5 +1,5 @@
 # MX Switch Break-In Machine
-A simple machine designed to actuate/ break-in MX style switches consistently and repetitively for a smoother push feel. Watch the <s>assembly process (will upload soon)</s> and [operation](https://youtube.com/playlist?list=PLLd9RKaLkD3lO_kQBJ3w394Xko4Nm3RR9) of the machine here.
+A simple machine designed to actuate/ break-in MX style switches consistently and repetitively for a smoother push feel. Watch the [assembly process and operation](https://youtube.com/playlist?list=PLLd9RKaLkD3lO_kQBJ3w394Xko4Nm3RR9) of the machine here.
 
 ![alt text][snapshot]
 
@@ -8,7 +8,8 @@ A simple machine designed to actuate/ break-in MX style switches consistently an
 ## Specifications
 - Max number of switches: 36
 - Compatibility: 
-  -  MX style switches with total travel distance of 4mm only
+  -  MX style switches with total travel distance of 4mm
+  -  MX style switches with total travel distance less than 4mm (tweaks required for this)
 
 ## Notes ⚠️
 - The provided files are to be used at your own risk.
@@ -44,8 +45,7 @@ Parts required to purchase:
 | 8mm Diameter Bumpons                 | 4   | Optional | [link 1](https://shopee.sg/MAGIC-100PCS-Sheet-Soft-Buffer-Sticker-Furniture-Accessories-Gel-Shock-Absorber-Rubber-Silicone-Pads-Cabinets-Door-Stop-Anti-collision-Toilets-Bumpers-Non-Slip-Self-Adhesive-Multicolor-i.299069493.11802920607) |
 
 ## To-Do 📝
-- More pictures and videos will be shared soon.
-- Compatibility for switches with shorter travel distance will be addressed in the next revision.
+- A guide on breaking-in switches that have shorter travel distance will be shared soon.
 
 ## Changelog 📒
 - `05/02/2022:` Initial part files commit 
