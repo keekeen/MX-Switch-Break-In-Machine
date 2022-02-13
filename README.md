@@ -1,5 +1,5 @@
 # MX Switch Break-In Machine
-A simple machine designed to actuate/ break-in MX style switches consistently and repetitively for a smoother push feel. Watch the [assembly process and operation](https://youtube.com/playlist?list=PLLd9RKaLkD3lO_kQBJ3w394Xko4Nm3RR9) of the machine here.
+A simple machine designed to actuate/ break-in MX style switches consistently and repetitively for a smoother push feel. Watch the [assembly process and operation](https://www.youtube.com/watch?v=iYIlCdo38ZM&list=PLLd9RKaLkD3lO_kQBJ3w394Xko4Nm3RR9) of the machine here.
 
 ![alt text][snapshot]
 
