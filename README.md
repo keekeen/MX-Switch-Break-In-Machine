@@ -51,5 +51,5 @@ Parts required to purchase:
 - `05/02/2022:` Initial part files commit 
 
 ## Reach me at 📩
-- Discord: https://discordapp.com/users/keekeen#4907
+- Discord: https://discordapp.com/users/Yū#0001
   - Feel free to send me your enquires if you have doubt reproducing a unit for yourself.
