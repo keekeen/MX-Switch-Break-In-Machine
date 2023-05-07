@@ -1,6 +1,8 @@
 # MX Switch Break-In Machine
 A simple machine designed to actuate/ break-in MX style switches consistently and repetitively for a smoother push feel. Watch the [assembly process and operation](https://www.youtube.com/watch?v=iYIlCdo38ZM&list=PLLd9RKaLkD3lO_kQBJ3w394Xko4Nm3RR9) of the machine here.
 
+Also do check out my latest design and endeavour here: https://geekhack.org/index.php?topic=120229.msg3160750#msg3160750 🙆🏻‍♂️
+
 ![alt text][snapshot]
 
 [snapshot]: /Images/DSC05789.jpg "Machine Snapshot"
@@ -51,5 +53,5 @@ Parts required to purchase:
 - `05/02/2022:` Initial part files commit 
 
 ## Reach me at 📩
-- Discord: https://discordapp.com/users/Yū#0001
+- Discord: https://discordapp.com/users/keekeen#1351
   - Feel free to send me your enquires if you have doubt reproducing a unit for yourself.
